@@ -1,43 +1,6 @@
 🎯 Objectives
 To Demonstrate CrewAI Agent Collaboration
 
-🏗️ System Architecture
-                     USER
-                       │
-                       ▼
-              ┌─────────────────┐
-              │    Streamlit    │
-              │   Web Interface │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Email Generator │
-              └────────┬────────┘
-                       │
-                       ▼
-                ┌─────────────┐
-                │   CrewAI    │
-                │     Crew    │
-                └──────┬──────┘
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-          ▼            ▼            ▼
-     Strategist      Writer      Reviewer
-          │            │            │
-          └────────────┼────────────┘
-                       │
-                       ▼
-               Google Gemini
-                       │
-                       ▼
-                Final Email
-                       │
-                       ▼
-                     USER
-
-
 📂 Project Structure
 AI Email Generator/
 │
