@@ -1,23 +1,6 @@
 🎯 Objectives
 To Demonstrate CrewAI Agent Collaboration
 
-📂 Project Structure
-AI Email Generator/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── .env
-│
-├── src/
-│   ├── email_crew.py
-│   ├── email_generator.py
-│   └── prompts.py
-│
-└── venv/
-
-
 --> app.py
 
 The main Streamlit application.
@@ -79,11 +62,6 @@ The application uses Google Gemini as the LLM.
 Create a Gemini API key using Google AI Studio.
 
 Create a .env file in the project root:
-
-AI Email Generator/
-├── .env
-├── app.py
-└── src/
 
 Add:
 
