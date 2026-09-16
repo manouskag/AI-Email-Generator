@@ -1,3 +1,4 @@
 crewai==1.15.21
 streamlit>=1.40.0
 python-dotenv>=1.0.1
+crewai[google-genai]
