@@ -68,3 +68,5 @@ Add:
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 Replace YOUR_GEMINI_API_KEY with your actual API key.
+
+demo url: https://wp7g4qywbmmd5cawwqbr2x.streamlit.app/
